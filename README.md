@@ -30,7 +30,7 @@ This notebook explores fundamental and advanced tensor operations in TensorFlow 
 
 🚀 Utilizing TensorFlow functions for optimized performance.
 
-🔗 **Colab Notebook**: https://github.com/mannnada/Tensor-opreation/blob/main/README.md(#)  
+🔗 **Colab Notebook**: https://colab.research.google.com/drive/1iUYinFbi3eVyoYaZcb1UKlrFtvd3tmHG?usp=sharing  
 📺 **YouTube**: [Tensor Operations in TensorFlow](#)
 
 
