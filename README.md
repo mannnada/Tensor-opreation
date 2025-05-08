@@ -31,7 +31,7 @@ This notebook explores fundamental and advanced tensor operations in TensorFlow 
 🚀 Utilizing TensorFlow functions for optimized performance.
 
 🔗 **Colab Notebook**: https://colab.research.google.com/drive/1iUYinFbi3eVyoYaZcb1UKlrFtvd3tmHG?usp=sharing  
-📺 **YouTube**: [Tensor Operations in TensorFlow](#)
+📺 **YouTube**: https://youtu.be/lSZAHD7fI0g
 
 
 ### 📗 Tensor Operations in PyTorch
@@ -49,5 +49,5 @@ This notebook covers essential tensor operations in PyTorch, including:
 🔧 Using `einops` for tensor transformations.
 
 🔗 **Colab Notebook**: https://colab.research.google.com/drive/1r5UXysFTEj4RFke4N1MKP8QkrawsuerL?usp=sharing  
-📺 **YouTube**: [Tensor Operations in PyTorch](#)
+📺 **YouTube**: https://youtu.be/lSZAHD7fI0g
 
